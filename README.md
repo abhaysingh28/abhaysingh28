@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Fullstack Web Development<br>🌱 I’m currently learning nextJS.<br>💬 Ask me about reactJS.<br>⚡ Fun fact I learn new skills quickly.
+🔭 I’m currently working on Fullstack Web Development<br>🌱 I’m currently learning nextJS.<br>💬 Ask me about nextJS.<br>⚡ Fun fact I learn new skills quickly.
 
 
 ## 🌐 Socials:
